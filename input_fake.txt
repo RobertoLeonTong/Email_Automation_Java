@@ -1,0 +1,6 @@
+from=nonreply@example.com
+subject=Report 
+mailServer=xxxxx.com
+table1=randomtable
+table2=randomtable
+table3=randomtable
